@@ -23,15 +23,15 @@ Curso C/C++
 
 ```bash
     # Clone o Repositório:
-    $ git clone https://github.com/SilvaneiMartins/martins-so
+    $ git clone https://github.com/SilvaneiMartins/curso-c-c-mais-mais
 
     # Entre no Diretório:
-    cd martins so
+    cd curso-c-c-mais-mais
 ```
 
 ## Licença
 
-Este projeto é licenciado sob [CC0 1.0 Universal]. Consulte o arquivo [LICENSE](https://github.com/SilvaneiMartins/martins-so/blob/master/LICENSE) para obter detalhes.
+Este projeto é licenciado sob [CC0 1.0 Universal]. Consulte o arquivo [LICENSE](https://github.com/SilvaneiMartins/curso-c-c-mais-mais/blob/master/LICENSE) para obter detalhes.
 
 ## Informação do Desenvolvedor
 
